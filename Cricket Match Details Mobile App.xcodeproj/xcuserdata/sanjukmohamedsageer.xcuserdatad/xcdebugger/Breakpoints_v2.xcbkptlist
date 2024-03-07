@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "70354914-231E-4086-9EEC-EC5BFAD59DD6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36BA310D-FB5C-4FA7-8B64-9F248350290F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket Match Details Mobile App/View/MatchSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "data()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36BA310D-FB5C-4FA7-8B64-9F248350290F - a25cf2e79b7a11fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_Match_Details_Mobile_App.MatchSummaryViewController.data() -&gt; ()"
+                  moduleName = "Cricket Match Details Mobile App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjukmohamedsageer/Desktop/Cricket%20Match%20Details%20Mobile%20App/Cricket%20Match%20Details%20Mobile%20App/View/MatchSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+               <Location
+                  uuid = "36BA310D-FB5C-4FA7-8B64-9F248350290F - a25cf2e79b7a11fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_Match_Details_Mobile_App.MatchSummaryViewController.data() -&gt; ()"
+                  moduleName = "Cricket Match Details Mobile App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjukmohamedsageer/Desktop/Cricket%20Match%20Details%20Mobile%20App/Cricket%20Match%20Details%20Mobile%20App/View/MatchSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1808">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB19147C-1CE3-432C-98B0-7255CA328327"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket Match Details Mobile App/View/MatchSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "data()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB19147C-1CE3-432C-98B0-7255CA328327 - a25cf2e79b7a1100"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_Match_Details_Mobile_App.MatchSummaryViewController.data() -&gt; ()"
+                  moduleName = "Cricket Match Details Mobile App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjukmohamedsageer/Desktop/Cricket%20Match%20Details%20Mobile%20App/Cricket%20Match%20Details%20Mobile%20App/View/MatchSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "CB19147C-1CE3-432C-98B0-7255CA328327 - a25cf2e79b7a1100"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_Match_Details_Mobile_App.MatchSummaryViewController.data() -&gt; ()"
+                  moduleName = "Cricket Match Details Mobile App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjukmohamedsageer/Desktop/Cricket%20Match%20Details%20Mobile%20App/Cricket%20Match%20Details%20Mobile%20App/View/MatchSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B212BA93-CF66-4ADD-9F06-07D4FB4639EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket Match Details Mobile App/ViewModel/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "parseMatchDetails(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B212BA93-CF66-4ADD-9F06-07D4FB4639EB - 9a777b2abc03f2e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_Match_Details_Mobile_App.DataManager.parseMatchDetails(from: Foundation.Data) -&gt; Swift.Optional&lt;Cricket_Match_Details_Mobile_App.MatchDetails&gt;"
+                  moduleName = "Cricket Match Details Mobile App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjukmohamedsageer/Desktop/Cricket%20Match%20Details%20Mobile%20App/Cricket%20Match%20Details%20Mobile%20App/ViewModel/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "B212BA93-CF66-4ADD-9F06-07D4FB4639EB - 9a777b2abc03f2e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_Match_Details_Mobile_App.DataManager.parseMatchDetails(from: Foundation.Data) -&gt; Swift.Optional&lt;Cricket_Match_Details_Mobile_App.MatchDetails&gt;"
+                  moduleName = "Cricket Match Details Mobile App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjukmohamedsageer/Desktop/Cricket%20Match%20Details%20Mobile%20App/Cricket%20Match%20Details%20Mobile%20App/ViewModel/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "222AD1C4-441B-4E87-AB37-08DF6EC0F52B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cricket Match Details Mobile App/View/MatchSummaryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "data()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "222AD1C4-441B-4E87-AB37-08DF6EC0F52B - a25cf2e79b7a10c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_Match_Details_Mobile_App.MatchSummaryViewController.data() -&gt; ()"
+                  moduleName = "Cricket Match Details Mobile App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjukmohamedsageer/Desktop/Cricket%20Match%20Details%20Mobile%20App/Cricket%20Match%20Details%20Mobile%20App/View/MatchSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "222AD1C4-441B-4E87-AB37-08DF6EC0F52B - a25cf2e79b7a10c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cricket_Match_Details_Mobile_App.MatchSummaryViewController.data() -&gt; ()"
+                  moduleName = "Cricket Match Details Mobile App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjukmohamedsageer/Desktop/Cricket%20Match%20Details%20Mobile%20App/Cricket%20Match%20Details%20Mobile%20App/View/MatchSummaryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
